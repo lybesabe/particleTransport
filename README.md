@@ -1,5 +1,5 @@
 # ***particleTransport***
-particleTransport is a collection of Python codes for the implementation of cellular automaton algorithms for particle transport:
+particleTransport is a collection of Python codes for the implementation of cellular automaton algorithms for particle transport of a single particle on a 2D medium:
 * Hopping Mechanism only
 * Hopping Mechanism with tunneling
 * Hopping Mechanism with backscattering
